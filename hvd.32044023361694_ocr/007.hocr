@@ -1,0 +1,32 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/18/hvd.32044023361694/007.png"; bbox 0 0 4132 6176; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3895 2209 4048 2276">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3895 2209 4048 2276">
+     <span class='ocr_line' id='line_1_1' title="bbox 3895 2209 4048 2276; baseline 0 -12"><span class='ocrx_word' id='word_1_1' title='bbox 3895 2211 3993 2266; x_wconf 69' lang='lat' dir='ltr'><strong>om</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 4009 2209 4048 2276; x_wconf 76' lang='lat' dir='ltr'><strong>QL&#39;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3964 2437 4038 2474">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3964 2437 4038 2474">
+     <span class='ocr_line' id='line_1_2' title="bbox 3964 2437 4038 2474; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 3964 2437 4038 2474; x_wconf 70' lang='lat' dir='ltr'><strong>mm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3945 2645 4051 2686">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3945 2645 4051 2686">
+     <span class='ocr_line' id='line_1_3' title="bbox 3945 2645 4051 2686; baseline 0.009 -1"><span class='ocrx_word' id='word_1_4' title='bbox 3945 2645 4051 2686; x_wconf 60' lang='lat' dir='ltr'><strong>MISS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 4013 2787 4052 2824">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 4013 2787 4052 2824">
+     <span class='ocr_line' id='line_1_4' title="bbox 4013 2787 4052 2824; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 4013 2787 4052 2824; x_wconf 62' lang='grc' dir='ltr'>ΕΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 3919 2924 4052 2965">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 3919 2924 4052 2965">
+     <span class='ocr_line' id='line_1_5' title="bbox 3919 2924 4052 2965; baseline 0.023 -3"><span class='ocrx_word' id='word_1_6' title='bbox 3919 2924 4052 2965; x_wconf 69' lang='lat' dir='ltr'><strong>amr-us</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
